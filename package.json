@@ -1,0 +1,29 @@
+{
+  "name": "buduguru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-elasticsearch": "^1.0.1",
+    "bunyan-rotating-file-stream": "^1.6.3",
+    "bunyan-slack": "0.0.10",
+    "bunyan-stream-elasticsearch": "^1.0.0",
+    "debug": "^3.1.0",
+    "elasticsearch": "^15.1.1",
+    "es": "^0.6.0",
+    "log4js": "^3.0.5",
+    "log4js-elasticsearch": "0.0.8",
+    "mocha": "^5.2.0",
+    "node-loggly-bulk": "^2.2.4",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.3.2",
+    "winston-elasticsearch": "^0.7.4",
+    "winston-slack-transport": "^2.0.0"
+  }
+}

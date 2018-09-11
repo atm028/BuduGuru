@@ -1,0 +1,16 @@
+{"name":"hellowrold","hostname":"myhost","pid":66933,"level":30,"msg":"this is info message","time":"2018-09-08T20:28:15.862Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":66933,"level":20,"msg":"this is debug message","time":"2018-09-08T20:28:15.863Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":66933,"level":50,"msg":"this is error message","time":"2018-09-08T20:28:15.863Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":67301,"level":30,"msg":"this is info message","time":"2018-09-08T20:34:02.699Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":67301,"level":20,"msg":"this is debug message","time":"2018-09-08T20:34:02.700Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":67301,"level":50,"msg":"this is error message","time":"2018-09-08T20:34:02.700Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":68737,"level":30,"msg":"this is info message","time":"2018-09-08T20:47:47.975Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":68737,"level":20,"msg":"this is debug message","time":"2018-09-08T20:47:47.985Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":68737,"level":50,"msg":"this is error message","time":"2018-09-08T20:47:47.985Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":68825,"level":30,"msg":"this is info message","time":"2018-09-08T20:49:06.479Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":68825,"level":20,"msg":"this is debug message","time":"2018-09-08T20:49:06.486Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":68825,"level":50,"msg":"this is error message","time":"2018-09-08T20:49:06.486Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":69289,"level":30,"msg":"this is info message","time":"2018-09-08T20:58:18.209Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":69289,"level":20,"msg":"this is debug message","time":"2018-09-08T20:58:18.217Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":69289,"level":50,"msg":"this is error message","time":"2018-09-08T20:58:18.217Z","v":0}
+{"name":"hellowrold","hostname":"myhost","pid":69289,"level":60,"msg":"Service stopped","time":"2018-09-08T20:58:18.218Z","v":0}
