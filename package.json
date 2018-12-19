@@ -25,5 +25,10 @@
     "winston-daily-rotate-file": "^3.3.2",
     "winston-elasticsearch": "^0.7.4",
     "winston-slack-transport": "^2.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pm2": "^3.2.3"
   }
 }
